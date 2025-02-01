@@ -1,1 +1,1 @@
-<h1 align="center">H1!! i am Shine Daniel</h1>
+<h1 align="center">Hi!! i am Shine Daniel</h1>
